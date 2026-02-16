@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "Бэтмен",
+    "poster": "https://img2.zonapic.com/images/film_240/1234/123456.jpg",
+    "video": "https://ashdi.vip/video/435"
+  },
+  {
+    "name": "Мстители",
+    "poster": "https://img2.zonapic.com/images/film_240/5678/567890.jpg",
+    "video": "https://ashdi.vip/video/535341"
+  }
+]
